@@ -1,0 +1,22 @@
+{
+  "name": "pulse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathansForYou/pulse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathansForYou/pulse/issues"
+  },
+  "homepage": "https://github.com/NathansForYou/pulse#readme",
+  "devDependencies": {
+    "parse-dashboard": "^1.0.19"
+  }
+}
